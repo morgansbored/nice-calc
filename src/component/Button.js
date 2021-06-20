@@ -6,6 +6,7 @@ export default class Button extends React.Component {
     static propTypes = {
         name: PropTypes.string,
         orange: PropTypes.bool,
+        brown: PropTypes.bool,
         wide: PropTypes.bool,
         clickHandler: PropTypes.func,
     };
@@ -18,6 +19,7 @@ export default class Button extends React.Component {
         const className = [
             "component-button",
             this.props.orange ? "orange" : "",
+            this.props.brown ? "brown" : "",
             this.props.wide ? "wide" : "",
         ];
 
