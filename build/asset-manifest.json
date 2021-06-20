@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nice-calc/static/css/main.a95dcf2e.chunk.css",
+    "main.js": "/nice-calc/static/js/main.16a9ed5c.chunk.js",
+    "main.js.map": "/nice-calc/static/js/main.16a9ed5c.chunk.js.map",
+    "runtime-main.js": "/nice-calc/static/js/runtime-main.77f17268.js",
+    "runtime-main.js.map": "/nice-calc/static/js/runtime-main.77f17268.js.map",
+    "static/js/2.c130438d.chunk.js": "/nice-calc/static/js/2.c130438d.chunk.js",
+    "static/js/2.c130438d.chunk.js.map": "/nice-calc/static/js/2.c130438d.chunk.js.map",
+    "index.html": "/nice-calc/index.html",
+    "static/css/main.a95dcf2e.chunk.css.map": "/nice-calc/static/css/main.a95dcf2e.chunk.css.map",
+    "static/js/2.c130438d.chunk.js.LICENSE.txt": "/nice-calc/static/js/2.c130438d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77f17268.js",
+    "static/js/2.c130438d.chunk.js",
+    "static/css/main.a95dcf2e.chunk.css",
+    "static/js/main.16a9ed5c.chunk.js"
+  ]
+}
